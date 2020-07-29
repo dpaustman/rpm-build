@@ -26,3 +26,12 @@ chmod 640 ${RPM_BUILD_ROOT}/etc/*.properties
 %defattr(-,root,root,-)
 /usr/sbin/sem_tool
 /etc/timezones.properties
+
+
+cd ~
+mkdir rpmbuild/BUILD -p
+mkdir rpmbuild/BUILDROOT -p
+mkdir rpmbuild/RPMS -p
+mkdir rpmbuild/SOURCES -p
+mkdir rpmbuild/SPECS -p
+mkdir rpmbuild/SRPMS -p
