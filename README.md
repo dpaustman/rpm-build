@@ -37,3 +37,4 @@ mkdir rpmbuild/SPECS -p
 mkdir rpmbuild/SRPMS -p
 
 https://www.cnblogs.com/klb561/p/9189236.html  iso
+https://blog.csdn.net/qq_42761569/article/details/104018903  python3 hbase
