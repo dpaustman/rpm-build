@@ -35,3 +35,5 @@ mkdir rpmbuild/RPMS -p
 mkdir rpmbuild/SOURCES -p
 mkdir rpmbuild/SPECS -p
 mkdir rpmbuild/SRPMS -p
+
+https://www.cnblogs.com/klb561/p/9189236.html  iso
